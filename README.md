@@ -2,7 +2,7 @@
 
 > Based on the very first version of Zombie Plague by "MeRcyLeZZ"
 
-## It will not work, you must disable <bd_advanced> include and it's functions first.
+## It will not work, you must disable "bd_advanced" include and it's functions first.
 ## I will publish it later.
 
 > Known bugs:
