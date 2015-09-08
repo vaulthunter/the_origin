@@ -1,0 +1,137 @@
+[ru]
+NOTICE_VIRUS_FREE = Вирус вышел из под контроля...
+NOTICE_MULTI = ВАС ЖДЕТ СМЕРТЬ!!!
+
+ORIGIN_SCORE = Люди %d [ %d ] %d Зомби ^n%d Победы %d
+
+SPECTATING = Наблюдение
+CLASS_CLASS = Вид:
+MONEY1 = Деньги:
+
+MENU_ZCLASS = Класс Зомби...
+ZOMBIENAME Classic Zombie = Origin Zombie
+ZOMBIEDESC Classic Zombie = Evolution power
+NO_CLASSES = Нету доступных классов.
+MENU_BACK = Назад.
+MENU_NEXT = Далее.
+MENU_EXIT = Выход.
+ZOMBIE_SELECT = После заражения ваш класс Зомби будет
+ZOMBIE_ATTRIB1 = Здоровье
+ZOMBIE_ATTRIB2 = Скорость
+ZOMBIE_ATTRIB3 = Гравитация
+ZOMBIE_ATTRIB4 = Отброс
+
+CANT_CHANGE_TEAM = Нельзя сменить команду.
+
+
+LAST_ZOMBIE_LEFT = Единственный Зомби вышел из игры, теперь %s Зомби.
+LAST_HUMAN_LEFT = Единственный Человек вышел из игры, теперь %s Человек.
+
+WIN_HUMAN = Люди победили заразу !
+WIN_ZOMBIE = Зомби захватили весь мир !
+WIN_NO_ONE = На этот раз ничья...
+
+ZP_CSO_ZOMBIERESPAWN_MSG2 = Ваш вышибли мозги! Смерть!
+ORIGIN_ZOMBIERESPAWN_MSG = Воскрешение через %s
+ORIGIN_GMODE_INTRO = Начинаем через %s!
+WC3_ABILITY_COOLDOWN = До %s осталось %s
+
+
+TIME_SEC_ONE = секунду
+TIME_SEC_SOME = секунды
+TIME_SEC_MANY = секунд
+
+
+BUY_ENABLED = Получение оружия разрешено
+CANT_BUY_WEAPONS_DEAD = Мертвым не нужно оружие
+CUSTOM_BUY_DISABLED = Покупка оружия запрещена
+BUY_MENU_TIME_EXPIRED = Уже нельзя получить оружие
+CMD_NOT_ZCLASSES = Не доступно больше классов
+MENU_BUY1_TITLE = Основное оружие
+MENU_BUY2_TITLE = Пистолеты
+MENU_BUY3_TITLE = Гранаты
+MENU_AUTOSELECT = Повторять выбор?
+MOTD_ENABLED = Да
+MOTD_DISABLED = Нет
+MENU_NEXT = Далее
+MENU_BACK = Назад
+MENU_EXIT = Выход
+MENU_BUY = Меню покупок
+MENU_ZCLASS = Выбор класса зомби
+MENU_INFO = Установка ( HUD )!
+MENU_CHOOSE_TEAM = Выбрать команду
+MENU_REGISTER = Личный кабинет
+
+MOTD_INFO11 = <meta charset=UTF-8><body bgcolor='#000000'><font color='#FF0505'><b>%s %s by %s :</b> Хочешь играть с новыми эффектами? Установи их по ссылке ниже и получи бонусное оружие или зомби-класс! Подробности на форуме zombie-mod.ru 
+MOTD_INFO12 =  <font color=green><h1>Наш сервер поддерживает новые спрайты!</h1></font><br>Нажмите <font color=yellow><h1><a href=origin_hud2.cmd>УСТАНОВКА</a></h1></font> для их поддержки. <b>Заменится файл hud.txt</b><br><br>
+
+HUD_EVOLUTION = Эволюция
+HUD_ATTACK_POWER = Мораль
+
+
+[en]
+NOTICE_VIRUS_FREE = Virus is under control...
+NOTICE_MULTI = THE DEATH IS COMING!!!
+
+ORIGIN_SCORE = Humans %d [ %d ] %d Zombies ^n%d Victories %d
+
+SPECTATING = Spectating
+CLASS_CLASS = Class:
+MONEY1 = Money:
+
+MENU_ZCLASS = Zombie class...
+ZOMBIENAME Classic Zombie = Origin Zombie
+ZOMBIEDESC Classic Zombie = Evolution power
+NO_CLASSES = No classes.
+MENU_BACK = Back.
+MENU_NEXT = Next.
+MENU_EXIT = Exit.
+ZOMBIE_SELECT = Your Zombie class will be
+ZOMBIE_ATTRIB1 = Health
+ZOMBIE_ATTRIB2 = Speed
+ZOMBIE_ATTRIB3 = Gravity
+ZOMBIE_ATTRIB4 = Knockback
+
+CANT_CHANGE_TEAM = You can't change team.
+
+
+LAST_ZOMBIE_LEFT = Last zombie left the game, %s is a zombie now.
+LAST_HUMAN_LEFT = Last human left the game, %s is a human now.
+
+WIN_HUMAN = Human win !
+WIN_ZOMBIE = Zombies are everywhere !
+WIN_NO_ONE = Keep calm, you will win...
+
+ZP_CSO_ZOMBIERESPAWN_MSG2 = You head crashed! DED!
+ORIGIN_ZOMBIERESPAWN_MSG = Respawn in %s
+ORIGIN_GMODE_INTRO = The game starts in %s!
+WC3_ABILITY_COOLDOWN = %s time left %s
+
+
+TIME_SEC_ONE = second
+TIME_SEC_SOME = seconds
+TIME_SEC_MANY = seconds
+
+
+BUY_ENABLED = Получение оружия разрешено
+CANT_BUY_WEAPONS_DEAD = Мертвым не нужно оружие
+CUSTOM_BUY_DISABLED = Покупка оружия запрещена
+BUY_MENU_TIME_EXPIRED = Уже нельзя получить оружие
+CMD_NOT_ZCLASSES = Не доступно больше классов
+MENU_BUY1_TITLE = Основное оружие
+MENU_BUY2_TITLE = Пистолеты
+MENU_BUY3_TITLE = Гранаты
+MENU_AUTOSELECT = Повторять выбор?
+MOTD_ENABLED = Yes
+MOTD_DISABLED = No
+MENU_BUY = Buy menu
+MENU_ZCLASS = Choose zombie class
+MENU_INFO = Установка ( HUD )!
+MENU_CHOOSE_TEAM = Choose team
+MENU_REGISTER = My profile
+
+MOTD_INFO11 = <meta charset=UTF-8><body bgcolor='#000000'><font color='#FF0505'><b>%s %s by %s :</b> Хочешь играть с новыми эффектами? Установи их по ссылке ниже и получи бонусное оружие или зомби-класс! Подробности на форуме zombie-mod.ru 
+MOTD_INFO12 =  <font color=green><h1>Наш сервер поддерживает новые спрайты!</h1></font><br>Нажмите <font color=yellow><h1><a href=origin_hud2.cmd>УСТАНОВКА</a></h1></font> для их поддержки. <b>Заменится файл hud.txt</b><br><br>
+
+HUD_EVOLUTION = Evolution
+HUD_ATTACK_POWER = Morality

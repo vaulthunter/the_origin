@@ -1,0 +1,16 @@
+# Compiled source #
+###################
+*.amxx
+
+# Some shit like images and html #
+##################################
+*.jpg
+*.html
+
+# bak files #
+#############
+*.bak
+
+# no weapons #
+origin_weapon/*
+origin_weapon
